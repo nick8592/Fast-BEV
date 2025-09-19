@@ -90,6 +90,12 @@ You can refer to it to get faster speed.
 
 [download](https://drive.google.com/drive/folders/1Ja9mqOE0iGPysVxmLSrZyUoCEBYu5fMH?usp=sharing)
 
+### Inference Results
+#### fastbev_m4_r50_s320x880_v250x250x6_c256_d6_f4
+[video_pred_fastbev_m4_r50_s320x880_v250x250x6_c256_d6_f4.mp4](https://github.com/user-attachments/assets/4d63e3ca-898a-46e3-ba5e-9592030e5f76)
+
+[video_gt_fastbev_m4_r50_s320x880_v250x250x6_c256_d6_f4](https://github.com/user-attachments/assets/2a3a23c2-e6a4-41c5-ae3d-7502df3a06b5)
+
 ### Deployment
 TODO
 
